@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mos/anax-flat": "^1.0",
+        "geshi/geshi": "dev-master"
+    }
+}
